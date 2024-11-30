@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Akshat Jain (E22BCAU0139)
 # User-Management-and-Random-Dog
 This project is a user management app displaying registered users and their details. It also lets users view random dog images from an external API, offering a fun experience. Features include a user list, detailed view modals, and integration with Cloudinary for storing and managing user profile images.
 =======
